@@ -1,6 +1,7 @@
 #!/bin/bash
 
-a=10
-b=20
-c=$((a + b))
-echo $c
+x=10
+y=20
+z=$((x+y))
+echo $z
+
