@@ -11,4 +11,7 @@ b=9
 echo "Difference is" $((a-b))
 
 
-
+# Multiplication
+p=10
+q=10
+echo "Product is" $((p*q))
